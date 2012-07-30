@@ -41,8 +41,10 @@ class Conversor
   			 "VI"
   	    when 7 then
   			 "VII"
-  		else
+  	    when 8 then
   			 "VIII"
+  		else
+  			 "IX"
 		end
 	
 	end

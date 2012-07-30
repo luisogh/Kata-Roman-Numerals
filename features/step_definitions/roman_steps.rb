@@ -33,8 +33,10 @@ class Conversor
   			 "II"
   	    when 3 then
   			 "III"
-  		else
+  		when 4 then
   			 "IV"
+  		else
+  			 "V"
 		end
 	
 	end

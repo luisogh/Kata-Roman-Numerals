@@ -29,7 +29,8 @@ class Conversor
   		
   		when 1 then 
   			return "I"
-  		
+  		else
+  			return "II"
 		end
 	
 	end

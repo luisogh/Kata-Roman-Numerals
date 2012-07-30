@@ -11,3 +11,4 @@ Scenario Outline: Convertir <arabigo>
 	Examples:
 		| arabigo | romano |
 		| 1       | I      |
+		| 2       | II     |

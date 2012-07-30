@@ -28,9 +28,11 @@ class Conversor
 		case numero 
   		
   		when 1 then 
-  			return "I"
+  			 "I"
+  		when 2 then
+  			 "II"
   		else
-  			return "II"
+  			 "III"
 		end
 	
 	end

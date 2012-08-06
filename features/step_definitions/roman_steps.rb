@@ -49,8 +49,10 @@ class Conversor
          "XIII"    
       when 14 then
          "XIV"   
+      when 15 then
+         "XV"     
   		else
-  			 "XV"
+  			 "XVI"
 		end
 	
 	end

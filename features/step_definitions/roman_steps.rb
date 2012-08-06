@@ -43,8 +43,10 @@ class Conversor
          "X"
       when 11 then
          "XI"
+      when 12 then
+         "XII"  
   		else
-  			 "XII"
+  			 "XIII"
 		end
 	
 	end

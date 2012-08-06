@@ -56,9 +56,11 @@ class Conversor
       when 17 then
          "XVII"
       when 18 then
-         "XVIII"          
+         "XVIII" 
+      when 19 then
+         "XIX"            
   		else
-  			 "XIX"
+  			 "XX"
 		end
 	
 	end
